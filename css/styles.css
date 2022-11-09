@@ -8,6 +8,7 @@ body {
 .banner {
     height: 11.5rem;
     background-color: blue;
+    background-size: cover;
 }
 
 /* create rounded corners on images (mainly for logo) */
@@ -59,4 +60,13 @@ img.rounded-corners {
 .banner-text {
     font-family: 'Hanuman', serif;
     font-size: 6rem;
+    color: white;
+    padding-top: 2.75rem;
+    padding-bottom: 2.75rem;
+    padding-left: 7rem;
+}
+
+.main-page-bg-color{
+    background-color: #D9D9D9;
+    min-height: 100vh;
 }
