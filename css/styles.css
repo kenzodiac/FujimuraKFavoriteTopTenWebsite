@@ -23,3 +23,13 @@ img.rounded-corners {
     display: flex;
     justify-content: center;
 }
+
+.about-card {
+    width: 452px;
+    height: 483px;
+}
+
+.about-img {
+    width: 452px;
+    height: 290px;
+}
