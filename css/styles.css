@@ -1,0 +1,9 @@
+/* create rounded corners on images (mainly for logo) */
+img.rounded-corners {
+    border-radius: 20px;
+}
+
+/* navbar styling */
+.navbarText {
+    
+}
