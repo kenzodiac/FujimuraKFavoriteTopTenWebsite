@@ -4,6 +4,22 @@ img.rounded-corners {
 }
 
 /* navbar styling */
-.navbarText {
+.navbarText {}
     
+.card-title {
+    text-align: center;
+    color: white;
+}
+
+.card-text {
+    color: white;
+}
+
+.card-body {
+    background-color: #134074;
+}
+
+.center-cards {
+    display: flex;
+    justify-content: center;
 }
