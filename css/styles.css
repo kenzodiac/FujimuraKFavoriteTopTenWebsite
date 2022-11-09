@@ -69,5 +69,5 @@ img.rounded-corners {
 
 .main-page-bg-color{
     background-color: #D9D9D9;
-    min-height: 100vh;
+    min-height: calc(100vh - 17.75rem);
 }
