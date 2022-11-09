@@ -1,7 +1,13 @@
+/* modify the bg image */
 body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+}
+
+.banner {
+    height: 11.5rem;
+    background-color: blue;
 }
 
 /* create rounded corners on images (mainly for logo) */
@@ -48,3 +54,9 @@ img.rounded-corners {
     width: 28.25rem;
     height: 18.125rem;
 } */
+
+/* Main Page Styling */
+.banner-text {
+    font-family: 'Hanuman', serif;
+    font-size: 6rem;
+}
