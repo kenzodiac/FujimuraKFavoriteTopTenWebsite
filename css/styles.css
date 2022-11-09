@@ -10,3 +10,8 @@
 .card-body {
     background-color: #134074;
 }
+
+.center-cards {
+    display: flex;
+    justify-content: center;
+}
