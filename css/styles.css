@@ -88,6 +88,20 @@ img.rounded-corners {
     padding-left: 7rem;
 }
 
+@font-face {
+    font-family: Arcade;
+    src: url("../fonts/Arcade.ttf")
+}
+
+.vg-banner-text {
+    font-family: Arcade;
+    font-size: 4rem;
+    color: white;
+    padding-top: 3.65rem;
+    padding-bottom: 2.5rem;
+    padding-left: 5rem;
+}
+
 .main-page-bg-color{
     background-color: #D9D9D9;
     min-height: calc(100vh - 17.75rem);
