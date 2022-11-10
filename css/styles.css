@@ -1,10 +1,3 @@
-/* modify the bg image */
-body {
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-}
-
 .banner {
     background-image: url("../assets/indexBanner.jpeg");
     height: 11.5rem;
@@ -173,6 +166,18 @@ img.rounded-corners {
     padding-right: 0;
 }
 
+.about-us-bg-img {
+    background-image: url("/assets/AboutUs/arcadecarpet.jpg");
+    background-repeat: repeat;
+}
+
+.index-bg-img {
+    background-image: url("/assets/indexBG.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
 /* Star Trek Page Styling */
 
 @font-face {
@@ -269,12 +274,17 @@ p {
 
 .star-trek-bg-img {
     background-image: url("/assets/StarTrek/starfield.webp");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 /* Video Games Page Styling */
 
 .video-games-bg-img {
     background-image: url("/assets/VideoGames/asteroids.jpg");
+    background-repeat: repeat;
+    background-attachment: fixed;
 }
 
 #game-hero-10{background-image: url("../assets/VideoGames/simpsons.jpg");}
@@ -293,6 +303,6 @@ p {
 
 #game-hero-3{background-image: url("../assets/VideoGames/suikoden2.jpg");}
 
-#game-hero-2{background-image: url("../assets/VideoGames/zeldaoot.jpg");}
+#game-hero-2{background-image: url("../assets/VideoGames/zeldaoot2.jpg");}
 
 #game-hero-1{background-image: url("../assets/VideoGames/mario64.jpg");}
