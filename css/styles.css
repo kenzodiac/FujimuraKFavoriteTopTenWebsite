@@ -29,6 +29,14 @@ body {
     background-position: top 36% right 0%;
 }
 
+.trek-banner {
+    background-image: url("../assets/StarTrek/starTrekHeader.png");
+    height: 11.5rem;
+    background-color: blue;
+    background-size: cover;
+    background-position: top 60% right 0%;
+}
+
 /* create rounded corners on images (mainly for logo) */
 img.rounded-corners {
     border-radius: 1.25rem;
