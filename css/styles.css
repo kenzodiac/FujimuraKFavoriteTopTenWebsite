@@ -11,6 +11,14 @@ body {
     background-size: cover;
 }
 
+.vg-banner{
+    background-image: url("/assets/VideoGames/vidgameHeader.webp");
+    height: 11.5rem;
+    background-color: blue;
+    background-size: cover;
+    background-position: top 71% right 0%;
+}
+
 /* create rounded corners on images (mainly for logo) */
 img.rounded-corners {
     border-radius: 1.25rem;
