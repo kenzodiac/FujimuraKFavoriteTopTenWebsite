@@ -133,15 +133,35 @@ img.rounded-corners {
     height: 40vh;
 }
 
-#trek-hero-1{
-    background-image: url("../assets/StarTrek/tng.jpg");
+.carousel-bg{
     background-position: top;
     background-repeat:no-repeat;
+}
+
+#trek-hero-10-1{
+    background-image: url("../assets/StarTrek/tng.jpg");
     background-size:30vh;
 }
 
+#trek-hero-10-2{
+    background-image: url("../assets/StarTrek/tng1.jpg");
+    background-size:50vh;
+}
+#trek-hero-10-3{
+    background-image: url("../assets/StarTrek/tng2.jpg");
+    background-size:50vh;
+}
+#trek-hero-10-4{
+    background-image: url("../assets/StarTrek/tng3.jpg");
+    background-size:50vh;
+}
+#trek-hero-10-5{
+    background-image: url("../assets/StarTrek/tng4.webp");
+    background-size:50vh;
+}
+
 .carousel-item {
-    background-size: cover;
+    /* background-size: cover; */
     height: 100vh;
     display: relative;
 }
