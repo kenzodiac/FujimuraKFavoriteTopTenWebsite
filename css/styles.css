@@ -45,6 +45,7 @@ img.rounded-corners {
     display: flex;
     justify-content: center;
     padding-top: 5rem;
+    width: 28.25rem;
 }
 
 .about-card {
@@ -73,6 +74,6 @@ img.rounded-corners {
     min-height: calc(100vh - 17.75rem);
     display: flex;
     align-items: center;
-    /* padding-top: 5rem; */
+    /* justify-content: space-around; */
     padding-bottom: 5rem;
 }
