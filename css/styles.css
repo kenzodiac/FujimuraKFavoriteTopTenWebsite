@@ -177,6 +177,6 @@ img.rounded-corners {
     height: 40vh;
 }
 #trek-hero-1{
-    background-image: url(/assets/StarTrek/tng.jpg);
-    background-size: fit;
+    background-image: url(../assets/StarTrek/tng.jpg);
+    background-size:contain;
 }
