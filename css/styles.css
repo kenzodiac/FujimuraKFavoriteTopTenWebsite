@@ -44,9 +44,17 @@ img.rounded-corners {
 .center-cards {
     display: flex;
     justify-content: center;
+    padding-top: 5rem;
+    width: 28.25rem;
 }
 
 .about-card {
+    width: 28.25rem;
+    height: 30.188rem;
+    background-color: #134074;
+}
+
+.index-card {
     width: 28.25rem;
     height: 30.188rem;
     background-color: #134074;
@@ -70,6 +78,64 @@ img.rounded-corners {
 .main-page-bg-color{
     background-color: #D9D9D9;
     min-height: calc(100vh - 17.75rem);
+    display: flex;
+    align-items: center;
+    /* justify-content: space-around; */
+    padding-bottom: 5rem;
+}
+
+.ic-title {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.card-img-overlay {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+/* Star Trek Page Styling */
+
+@font-face {
+    font-family: EdgeOfTheGalaxyRegular-OVEa6;
+    src: url(../fonts/EdgeOfTheGalaxyRegular-OVEa6.otf)
+}
+
+.trek-banner-text {
+    font-family: EdgeOfTheGalaxyRegular-OVEa6;
+    font-size: 4rem;
+    color: white;
+    padding-top: 3.75rem;
+    padding-bottom: 3.75rem;
+    padding-left: 7rem;
+}
+
+.trek-page-bg-color {
+    background-color: #D9D9D9;
+}
+
+.text-box-1 {
+    background-color: #6D6969;
+}
+
+.text-box-2 {
+    background-color: #4D4D4D;
+}
+
+.img-box-1 {
+
+}
+
+.img-box-2 {
+
+}
+.carousel-inner{
+    height: 40vh;
+}
+#trek-hero-1{
+    background-image: url(/assets/StarTrek/tng.jpg);
+    background-size: fit;
 }
 
 /* Star Trek Page Styling */
