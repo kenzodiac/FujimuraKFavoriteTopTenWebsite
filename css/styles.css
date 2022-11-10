@@ -151,6 +151,23 @@ img.rounded-corners {
     text-align: center;
 }
 
+.ac-title {
+    font-family: 'Inter', sans-serif;
+    font-size: 2.25rem;
+}
+
+.ac-text {
+    font-family: 'Inter', sans-serif;
+    font-size: 1.15rem;
+    text-align: center;
+}
+
+.ac-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
 .card-img-overlay {
     padding-left: 0;
     padding-right: 0;
