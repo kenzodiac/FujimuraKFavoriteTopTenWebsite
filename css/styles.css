@@ -83,3 +83,14 @@ img.rounded-corners {
     /* justify-content: space-around; */
     padding-bottom: 5rem;
 }
+
+.ic-title {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.card-img-overlay {
+    padding-left: 0;
+    padding-right: 0;
+}
