@@ -135,7 +135,9 @@ img.rounded-corners {
 
 #trek-hero-1{
     background-image: url("../assets/StarTrek/tng.jpg");
-    background-position: center;
+    background-position: top;
+    background-repeat:no-repeat;
+    background-size:30vh;
 }
 
 .carousel-item {
