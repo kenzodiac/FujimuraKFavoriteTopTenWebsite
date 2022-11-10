@@ -44,6 +44,7 @@ img.rounded-corners {
 .center-cards {
     display: flex;
     justify-content: center;
+    padding-top: 5rem;
 }
 
 .about-card {
@@ -70,4 +71,8 @@ img.rounded-corners {
 .main-page-bg-color{
     background-color: #D9D9D9;
     min-height: calc(100vh - 17.75rem);
+    display: flex;
+    align-items: center;
+    /* padding-top: 5rem; */
+    padding-bottom: 5rem;
 }
