@@ -163,20 +163,31 @@ img.rounded-corners {
 .text-box-1 {
     background-color: #6D6969;
     height: 40vh;
+    color: white;
+    font-family: 'Inter', sans-serif;
 }
 
 .text-box-2 {
     background-color: #4D4D4D;
     height: 40vh;
+    color: white;
+    font-family: 'Inter', sans-serif;
 }
 
-.img-box-1 {
-
+h2 {
+    font-size: 2.25rem;
+    padding-top: .5rem;
+    padding-left: .5rem;
+    padding-right: .5rem;
+    padding-bottom: .5rem;
 }
 
-.img-box-2 {
-
+p {
+    padding-left: .5rem;
+    padding-right: .5rem;
+    padding-bottom: .5rem;
 }
+
 .carousel-inner{
     height: 40vh;
 }
