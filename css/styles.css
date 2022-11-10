@@ -71,3 +71,46 @@ img.rounded-corners {
     background-color: #D9D9D9;
     min-height: calc(100vh - 17.75rem);
 }
+
+/* Star Trek Page Styling */
+
+@font-face {
+    font-family: EdgeOfTheGalaxyRegular-OVEa6;
+    src: url(../fonts/EdgeOfTheGalaxyRegular-OVEa6.otf)
+}
+
+.trek-banner-text {
+    font-family: EdgeOfTheGalaxyRegular-OVEa6;
+    font-size: 4rem;
+    color: white;
+    padding-top: 3.75rem;
+    padding-bottom: 3.75rem;
+    padding-left: 7rem;
+}
+
+.trek-page-bg-color {
+    background-color: #D9D9D9;
+}
+
+.text-box-1 {
+    background-color: #6D6969;
+}
+
+.text-box-2 {
+    background-color: #4D4D4D;
+}
+
+.img-box-1 {
+
+}
+
+.img-box-2 {
+
+}
+.carousel-inner{
+    height: 40vh;
+}
+#trek-hero-1{
+    background-image: url(/assets/StarTrek/tng.jpg);
+    background-size: fit;
+}
