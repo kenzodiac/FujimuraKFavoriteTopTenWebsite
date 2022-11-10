@@ -198,21 +198,36 @@ p {
     background-position: top;
 }
 
-#trek-hero-10-1{
-    background-image: url("../assets/StarTrek/tng.png");
+#trek-hero-10{
+    background-image: url("../assets/StarTrek/PIC.jpg");
 }
 
-#trek-hero-10-2{
-    background-image: url("../assets/StarTrek/tng1.png");
+#trek-hero-9{
+    background-image: url("../assets/StarTrek/PRO.jpg");
 }
-#trek-hero-10-3{
-    background-image: url("../assets/StarTrek/tng2.jpg");
+#trek-hero-8{
+    background-image: url("../assets/StarTrek/DIS.jpg");
 }
-#trek-hero-10-4{
-    background-image: url("../assets/StarTrek/tng3.jpg");
+#trek-hero-7{
+    background-image: url("../assets/StarTrek/LDS.jpg");
 }
-#trek-hero-10-5{
-    background-image: url("../assets/StarTrek/tng4.webp");
+#trek-hero-6{
+    background-image: url("../assets/StarTrek/SNW.jpg");
+}
+#trek-hero-5{
+    background-image: url("../assets/StarTrek/ENT.jpg");
+}
+#trek-hero-4{
+    background-image: url("../assets/StarTrek/TOS.jpg");
+}
+#trek-hero-3{
+    background-image: url("../assets/StarTrek/DS9.jpg");
+}
+#trek-hero-2{
+    background-image: url("../assets/StarTrek/voy.jpg");
+}
+#trek-hero-1{
+    background-image: url("../assets/StarTrek/tng.jpg");
 }
 
 .carousel-item {
