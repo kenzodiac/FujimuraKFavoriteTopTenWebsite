@@ -177,3 +177,9 @@ img.rounded-corners {
     height: 100vh;
     display: relative;
 }
+
+.list-padding{
+    padding-top: 1rem;
+    padding-right: 1rem;
+    padding-left: 1rem;
+}
