@@ -167,12 +167,12 @@ img.rounded-corners {
 }
 
 .about-us-bg-img {
-    background-image: url("/assets/AboutUs/arcadecarpet.jpg");
+    background-image: url("../assets/AboutUs/arcadecarpet.jpg");
     background-repeat: repeat;
 }
 
 .index-bg-img {
-    background-image: url("/assets/indexBG.png");
+    background-image: url("../assets/indexBG.png");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -273,7 +273,7 @@ p {
 }
 
 .star-trek-bg-img {
-    background-image: url("/assets/StarTrek/starfield.webp");
+    background-image: url("../assets/StarTrek/starfield.webp");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -282,7 +282,7 @@ p {
 /* Video Games Page Styling */
 
 .video-games-bg-img {
-    background-image: url("/assets/VideoGames/asteroids.jpg");
+    background-image: url("../assets/VideoGames/asteroids.jpg");
     background-repeat: repeat;
     background-attachment: fixed;
 }
